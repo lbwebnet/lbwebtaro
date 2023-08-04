@@ -169,7 +169,7 @@ font-size:2vw;}
 /*laptop*/
     @media screen and (max-width: 1440px) {
       .background-img{
-        height:138%;}
+        height:100%;}
 
       .th{
        padding-left:0%;}
