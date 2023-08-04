@@ -1,6 +1,6 @@
 @import url('https://fonts.cdnfonts.com/css/romantic');
 * {box-sizing: border-box;}
-
+* {-webkit-tap-highlight-color: transparent;}
 body{
   background-color:#7c6d80;
 font-family: 'Courier New', sans-serif;}
